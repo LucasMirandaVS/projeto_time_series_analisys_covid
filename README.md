@@ -1,1 +1,1 @@
-# projeto_time_series_prediction
+# Análise de séries temporais para covid na região Sudeste
