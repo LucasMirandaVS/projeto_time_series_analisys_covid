@@ -1,1 +1,1 @@
-# Análise de séries temporais para covid na região Sudeste
+# Analisando a pandemia na região Sudeste
